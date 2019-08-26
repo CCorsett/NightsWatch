@@ -1,0 +1,11 @@
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\bin\Debug\netcoreapp2.2\NightsWacht.deps.json
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\bin\Debug\netcoreapp2.2\NightsWacht.runtimeconfig.json
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\bin\Debug\netcoreapp2.2\NightsWacht.runtimeconfig.dev.json
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\bin\Debug\netcoreapp2.2\NightsWacht.dll
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\bin\Debug\netcoreapp2.2\NightsWacht.pdb
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\obj\Debug\netcoreapp2.2\NightsWacht.csprojAssemblyReference.cache
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\obj\Debug\netcoreapp2.2\NightsWacht.csproj.CoreCompileInputs.cache
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\obj\Debug\netcoreapp2.2\NightsWacht.AssemblyInfoInputs.cache
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\obj\Debug\netcoreapp2.2\NightsWacht.AssemblyInfo.cs
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\obj\Debug\netcoreapp2.2\NightsWacht.dll
+C:\PRJ2019\PROGRAMMI-SCRIPT_VARI\NightsWacht\obj\Debug\netcoreapp2.2\NightsWacht.pdb

@@ -1,7 +1,11 @@
 # Night's Watch
 
-Simple dotnet C# console portable program for create a snapshot of a folder.
-You can choose the timeout for the snapshot and the destination folder.
+Simple program that create a snapshots of a folder.
+Some features:
+- You can choose the timeout for the snapshots;
+- You can choose the destination folder of the snapshots.
+
+Written in C#.
 
 ## Installation
 
